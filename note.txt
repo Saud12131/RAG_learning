@@ -1,1 +1,5 @@
-we are at reading file using Loader 
+we are at adding documents to chromadb
+yt timestamp: 40:09
+
+
+comment
